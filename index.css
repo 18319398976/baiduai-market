@@ -1,0 +1,84 @@
+body,
+html {
+  min-width: 1210px;
+  margin: 0;
+  padding: 0;
+  font-family: PingFangSC-Regular, Microsoft YaHei, Arial, sans-serif;
+  /* line-height: 1.15; */
+}
+
+/* S 顶部导航栏 */
+.ai-top-nav {
+  min-width: 1240px;
+  height: 60px;
+  width: 100%;
+  background-color: #000;
+}
+
+/* E 顶部导航栏 */
+
+/* S 搜索框 */
+.ai-search-box {
+  background-color: seagreen;
+  height: 118px;
+}
+
+.ai-content-region {
+  width: 1200px;
+  height: 118px;
+  margin: 0 auto;
+  background-color: #fff;
+  display: flex;
+  padding: 0;
+}
+
+
+.ai-search-img img {
+  width: 218px;
+  height: 35px;
+  margin: 40px 14px 0px 14px;
+}
+
+.ai-search-wrap {
+  width: 662px;
+  height: 118px;
+  /* padding: 25px 0 0; */
+  font-size: 0px;
+  padding-top: 25px;
+}
+
+/* .ai-search {
+  width: 662px;
+  height: 40px;
+} */
+
+.ai-search input {
+  width: 453px;
+  height: 36px;
+  border: 1px solid #ccc;
+  vertical-align: top;
+}
+
+
+
+
+.ai-search button {
+  width: 88px;
+  height: 40px;
+}
+
+.ai-search-recommend {
+  width: 662px;
+  height: 22px;
+}
+
+.ai-search-recommend span {
+  display: inline-block;
+  /* width: 200px;
+  height: 100px;
+  z-index: 1; */
+}
+
+
+
+/* E 搜索框 */
