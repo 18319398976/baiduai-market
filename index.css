@@ -38,7 +38,7 @@ html {
   margin: 40px 14px 0px 14px;
 }
 
-.ai-search-wrap {
+.ai-content-region.ai-search-wrap {
   width: 662px;
   height: 118px;
   /* padding: 25px 0 0; */
@@ -61,6 +61,7 @@ html {
 .ai-search button {
   width: 88px;
   height: 40px;
+  margin-left: -10px;
 }
 
 .ai-search-recommend {
